@@ -1,0 +1,2 @@
+# unnamed-library
+A C Library that is made because to simplify University Assignments. A Library that is made on Data Structure class in order to simplify any assignments using linked-list. Unfortunately, only basic functions are available, the data structure are still buggy when it is still on the libThom project, and also that project is unmaintained since 2016. That's why this project is created
